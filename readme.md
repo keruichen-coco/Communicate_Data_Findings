@@ -1,5 +1,4 @@
 # Bike Trip Exploration
-## by Kerui Chen
 
 ## Dataset
 
